@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
 )
